@@ -1,0 +1,51 @@
+/** VARIABLES */
+
+:root {
+    /* Font sizes from _variables.scss */
+    --font-size-x-small: 9px;
+    --font-size-small: 11px;
+    --font-size-default: 13px;
+    --font-size-big: 16px;
+    --font-size-x-big: 20px;
+    --font-size-xx-big: 24px;
+    
+    /* Font weights from _variables.scss */
+    --font-weight: 500;
+    --font-weight-bold: 700;
+    --font-weight-light: 300;
+    --line-height-default: 1.6;
+    
+    /* Border radius from _variables.scss */
+    --border-radius-small: 1px;
+    --border-radius: 2px;
+    --border-radius-medium: 4px;
+    --border-radius-large: 8px;
+    --border-radius-x-large: 16px;
+    
+    /* Spacing from _variables.scss */
+    --spacing-xx-small: 2px;
+    --spacing-x-small: 4px;
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 24px;
+    --spacing-x-large: 32px;
+    --spacing-xx-large: 40px;
+    --spacing-xxx-large: 64px;
+    
+    /* Transitions from _variables.scss */
+    --transition-fast: 0.2s;
+    --transition-medium: 0.5s;
+    --transition-slow: 1s;
+    
+    /* Shadows from _variables.scss */
+    --box-shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --box-shadow-medium: 0 3px 6px rgba(0, 0, 0, 0.15);
+    --box-shadow-heavy: 0 10px 20px rgba(0, 0, 0, 0.2);
+    --box-shadow-popover: 0px 5px 5px -3px rgba(0, 0, 0, 0.3), 0px 4px 9px 1px rgba(0, 0, 0, 0.3);
+    
+    /* Breakpoints from _variables.scss */
+    --breakpoint-small: 576px;
+    --breakpoint-medium: 768px;
+    --breakpoint-large: 992px;
+    --breakpoint-xlarge: 1200px;
+}

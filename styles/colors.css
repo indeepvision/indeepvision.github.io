@@ -1,0 +1,16 @@
+/** COLORS */
+
+:root {
+    /* Colors from _colors.scss */
+    --primary: #b6ff00; /* $idvision-color */
+    --primary-light: #cdff12;
+    --primary-lighter: #e0ff80; /* $emphasis-additional-2 */
+    --primary-lightest: #eaffbf; /* $emphasis-additional-3 */
+    --dark: #182b31; /* $emphasis-idvision-1 */
+    --dark-mid: #445459;
+    --mid: #6f7c81; /* $gray-dark-3 */
+    --mid-light: #9ba5a9;
+    --light: #cbd0d2; /* $emphasis-idvision-3 */
+    --lighter: #e7e9ea; /* $gray-light-4 */
+    --white: #ffffff; /* $gray-white */
+}
